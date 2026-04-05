@@ -1,8 +1,61 @@
 [
     {
-        "name": "Apple___Apple_scab",
-        "cause": "Fungus Venturia inaequalis. Favorable conditions are cool, wet weather.",
-        "cure": "Use fungicides and resistant apple varieties. Prune and destroy infected leaves."
+       1. Diagnostic Summary
+
+- Plant Type: Apple Tree
+
+- Detected Disease: Apple Scab
+
+- Confidence Score: 94.85%
+
+- Description: Apple scab is a common disease caused by a fungus. It primarily attacks the leaves and fruit of apple and crabapple trees. The fungus thrives in cool, wet weather and spreads through tiny spores carried by wind and splashing rain.
+
+2. Symptoms Observed
+
+- Dark, olive-green to brownish-black patches on the surface of the leaf.
+
+- A "velvety" or fuzzy texture within the darker spots, which is the fungus producing spores.
+
+- Irregularly shaped lesions that are beginning to merge together, covering larger areas of the leaf.
+
+- Noticeable darkening and discoloration following the pattern of the leaf's veins.
+
+3. Recommended Treatments & Management (General Advice)
+            
+Risk Assessment: This fungal disease thrives in wet, cool, and humid weather. It loves long periods of rain where the leaves stay wet for hours. Wind and splashing water carry the fungus from old, fallen leaves to the new growth on your tree.
+
+            Precautions (Prevention):
+
+            Pick Resistant Varieties: If you are planting new trees, choose "Scab-Resistant" breeds (like Liberty or Freedom) to avoid this headache entirely.
+
+            Sanitize Tools: Always clean your pruning shears with rubbing alcohol or a bleach solution between every cut to stop the fungus from hitching a ride.
+
+            Water at the Base: Never use sprinklers that wet the leaves. Use a soaker hose or aim your watering can at the soil only.
+Space Your Trees: Ensure trees are not crowded so that wind can naturally dry the leaves after rain.
+
+            Overcome Methods (Cultural & Organic Control):
+
+            The "Clean Floor" Rule: This is the most important step. Rake up and destroy all fallen leaves and fruit immediately. Do not compost them; burn them or put them in the trash. If you leave them on the ground, the fungus will sleep there all winter and attack again next spring.
+
+            Aggressive Pruning: Cut away crowded or crossing branches in the winter. This opens up the "canopy" (the leaf area) to let sunlight and air in, which dries out moisture that the fungus needs to survive.
+
+            Mulching: Apply a fresh layer of wood chips or straw under the tree (but not touching the trunk) after cleaning the ground to create a physical barrier against spores splashing up from the soil.
+
+Fertilization & Soil Health:
+Balance Nitrogen: Do not over-fertilize with high-nitrogen products. Too much nitrogen creates soft, "succulent" leaf growth that is very easy for the fungus to eat.
+
+Boost Potassium: Potassium helps the tree strengthen its cell walls.
+
+Household Waste Suggestions:
+
+Banana Peels: Bury chopped banana peels around the base of the tree for a slow-release potassium boost.
+Eggshells: Dry and crush eggshells into a fine powder and mix into the soil for calcium, which toughens the fruit skin.
+Onion & Garlic Skin Tea: Soak onion and garlic skins in a bucket of water for 48 hours. Use this water to drench the soil; the natural sulfur in the skins acts as a mild, organic antifungal.
+
+Pesticides & Chemical Control Guide:
+Recommended Pesticides/Fungicides (Active Ingredients): Look for products containing Copper Fungicide, Sulfur, Captan, or Myclobutanil.
+Application Timing: You must start spraying early in the spring when the "green tips" of the buds first appear. Once the leaves are heavily spotted, chemicals will not "cure" them; they only protect the healthy parts. Spray every 7 to 14 days during wet weather.
+Safety Precautions: ALWAYS read the product label before use. Wear long sleeves, gloves, and a mask. Do not spray when bees are active (spray in the very early morning or late evening) to avoid killing pollinators. "name": "Apple___Apple_scab",
     },
     {
         "name": "Apple___Black_rot",
