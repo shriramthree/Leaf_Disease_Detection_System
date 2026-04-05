@@ -248,3 +248,69 @@ Safety Precautions: ALWAYS read the product label before use. Wear long sleeves,
         "cure": "Maintain good cultural practices for optimal health."
     }
 ]
+{ 
+
+- "Plant Type:" Potato Plant
+
+- "Detected Disease:" Healthy
+
+
+- {"Description:" This leaf is in excellent condition and shows no signs of disease or pest infestation. It displays a vibrant, uniform green color and a strong, firm structure, indicating that the plant is currently growing in a healthy environment with adequate nutrition.},
+
+{ "Symptoms Observed:"
+
+- The leaf has a consistent, deep green color across its entire surface.
+
+- There are no visible spots, lesions, or discolored patches caused by fungi or bacteria.
+
+- The leaf margins (edges) are intact and do not show any browning, curling, or signs of wilting.
+
+- The vein structure is well-defined and strong, indicating good nutrient and water transport.
+
+- No signs of insect damage or abnormal growth patterns are present.}}
+{1. Diagnostic Summary
+
+-" Plant Type:" Potato Plant
+
+-" Detected Disease:" Late Blight
+
+
+
+-{" Description:" Late Blight is a highly destructive disease caused by a fungus-like organism called *Phytophthora infestans*. It primarily affects the leaves and stems of potato and tomato plants, especially during periods of high humidity and cool temperatures. It spreads quickly through spores carried by wind and rain.},
+
+{" Symptoms Observed"
+
+- Large, irregular, dark brown or blackish spots scattered across the green leaf surface.
+
+- Necrotic (dead) areas where the leaf tissue has become dry, brittle, and brown.
+
+- Darkening and shriveling starting from the leaf edges and moving inward.
+
+- Loss of healthy green color in multiple sections of the leaf, indicating rapid disease progression.},
+
+{" Recommended Treatments & Management (General Advice)"
+Risk Assessment: Late Blight is a highly aggressive "crop killer." It thrives in cool, damp, and very humid conditions. If your plants stay wet from rain, dew, or fog for several hours, this disease can destroy an entire field in just a few days.},
+{{"Precautions (Prevention):"
+Buy Clean Seed: Only plant certified disease-free potato tubers. Never plant potatoes from the grocery store.
+Keep it Dry: Water plants at the base of the stem using a soaker hose. Never throw water over the leaves.
+Space them Out: Give plants plenty of room so air can blow through the leaves and dry them quickly.
+Clean Your Tools: If you touch a sick plant, wash your hands and tools with alcohol or bleach before touching healthy ones.},
+{"Overcome Methods (Cultural & Organic Control):"
+Be Ruthless: If a plant is heavily infected, pull it out immediately. Do not put it in your compost pile; bury it deep in the ground or burn it.
+Hilling: Pile extra soil high around the base of the plant. This creates a thick barrier that stops spores from washing off the leaves and reaching the potatoes underground.
+Kill the Tops: If you see blight on the leaves but want to save the potatoes, cut off the green tops (the haulms) and remove them. Wait two weeks before digging up the potatoes so the skins can toughen up.},
+{"Air Circulation:" Remove any weeds around the potatoes that might trap humid air.},
+{"Fertilization & Soil Health:"
+"Stop Excessive Nitrogen:" High-nitrogen fertilizers make lots of soft, watery leaves that the disease loves to eat.
+"Boost Potassium:" Use fertilizers higher in Potassium (K) to help the plant build stronger cell walls.},
+{"Household Waste Ideas:"
+"Rice Water:" Use the water left over from rinsing rice to provide mild minerals and starch to the soil.
+"Banana Peels: "Chop them up and bury them near the roots to provide a natural boost of Potassium.
+"Onion Skins:" Soak onion skins in water for 24 hours and use the liquid to water the soil; it contains compounds that can slightly boost the plant’s natural defenses.
+"Wood Ash:" A very small sprinkle of wood ash can provide potassium, but don't use too much or the soil will become too alkaline.}},
+
+{"Pesticides & Chemical Control Guide:"
+"Recommended Pesticides/Fungicides (Active Ingredients):" Copper-based fungicides (most common for organic growers), Mancozeb, or Chlorothalonil.
+Application Timing: You must spray before you see the disease if the weather is wet and cool. If the disease is already there, spray immediately to try and protect the remaining healthy leaves. Re-apply after heavy rain.
+"Safety Precautions: "CRITICAL: Always wear gloves, a mask, and long sleeves when spraying. Read the product label carefully and follow the Pre-Harvest Interval (the number of days you must wait after spraying before you can eat the potatoes).}}
+
